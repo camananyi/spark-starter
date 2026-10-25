@@ -1,6 +1,4 @@
-# spark-starter
-
-# Welcome to SPARK Tech Africa 👋
+# Welcome to SPARK Tech Africa 
 
 This is your own coding space for the course. Every assignment you write lives here, and every time you submit, your work is checked automatically and sent to your mentors.
 
@@ -97,4 +95,4 @@ check50 --local camananyi/spark-checks/main/<assignment name>
 - **Write comments** that explain what your code does, like `# this asks the user for their name`.
 - **Check before you submit.** It's the fastest way to learn what to fix.
 
-Happy coding! 🚀
+Happy coding!
